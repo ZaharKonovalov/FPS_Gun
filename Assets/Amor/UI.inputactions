@@ -1,0 +1,54 @@
+{
+    "name": "UI",
+    "maps": [
+        {
+            "name": "button",
+            "id": "fb912bb0-4b77-47ed-99a3-969b7564f8c7",
+            "actions": [
+                {
+                    "name": "Submit",
+                    "type": "Button",
+                    "id": "29e5a740-536b-4635-b2ed-709ed1738903",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Cancel",
+                    "type": "Button",
+                    "id": "d01aa42b-cd68-445b-afbc-aef4b4c00622",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "82aecc44-fc32-4d0e-bab5-bda85102b40a",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7cf2244a-8117-4f63-ada7-d80a1f0fbac2",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cancel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -657,8 +657,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FPS_Gun
-  metroPackageVersion: 
+  metroPackageName: FPSGun
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -666,7 +666,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: FPS_Gun
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: My project (2)
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
